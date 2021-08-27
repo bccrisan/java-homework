@@ -3,15 +3,15 @@ import java.util.*;
 class Main {
 
     public static void main(String[] args) {
-//        week1Exercise1();
-//        week1Exercise2();
-//        week1Exercise3();
-//        week1Exercise4();
-//
+        week1Exercise1();
+        week1Exercise2();
+        week1Exercise3();
+        week1Exercise4();
+
         week2Exercise1();
-//        week2Exercise2();
-//        week2Exercise3();
-//        week2Exercise4();
+        week2Exercise2();
+        week2Exercise3();
+        week2Exercise4();
     }
 
     private static void week1Exercise1() {
